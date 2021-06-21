@@ -1,0 +1,8 @@
+{
+    "name": "Loop3D anaconda channel upload recipe for Python packages",
+    "description": "This recipe will build and upload an python package to the Loop3d anaconda repository",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ],
+}
